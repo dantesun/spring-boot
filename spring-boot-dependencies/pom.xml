@@ -52,7 +52,7 @@
 		<aspectj.version>1.8.4</aspectj.version>
 		<atomikos.version>3.9.3</atomikos.version>
 		<bitronix.version>2.1.4</bitronix.version>
-		<commons-beanutils.version>1.9.2</commons-beanutils.version>
+		<commons-beanutils.version>1.9.3</commons-beanutils.version>
 		<commons-collections.version>3.2.1</commons-collections.version>
 		<commons-dbcp.version>1.4</commons-dbcp.version>
 		<commons-dbcp2.version>2.0.1</commons-dbcp2.version>
@@ -111,7 +111,7 @@
 		<snakeyaml.version>1.14</snakeyaml.version>
 		<solr.version>4.7.2</solr.version>
 		<spock.version>0.7-groovy-2.0</spock.version>
-		<spring.version>4.1.5.BUILD-SNAPSHOT</spring.version>
+		<spring.version>4.1.7.RELEASE</spring.version>
 		<spring-amqp.version>1.4.3.RELEASE</spring-amqp.version>
 		<spring-cloud-connectors.version>1.1.1.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.2.RELEASE</spring-batch.version>
