@@ -111,7 +111,7 @@
 		<snakeyaml.version>1.14</snakeyaml.version>
 		<solr.version>4.7.2</solr.version>
 		<spock.version>0.7-groovy-2.0</spock.version>
-		<spring.version>4.1.5.BUILD-SNAPSHOT</spring.version>
+		<spring.version>5.2.18.RELEASE</spring.version>
 		<spring-amqp.version>1.4.3.RELEASE</spring-amqp.version>
 		<spring-cloud-connectors.version>1.1.1.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.2.RELEASE</spring-batch.version>
@@ -127,7 +127,7 @@
 		<spring-social-facebook.version>1.1.1.RELEASE</spring-social-facebook.version>
 		<spring-social-linkedin.version>1.0.1.RELEASE</spring-social-linkedin.version>
 		<spring-social-twitter.version>1.1.0.RELEASE</spring-social-twitter.version>
-		<spring-ws.version>2.2.0.RELEASE</spring-ws.version>
+		<spring-ws.version>3.0.4.RELEASE</spring-ws.version>
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
 		<thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
 		<thymeleaf-extras-springsecurity3.version>2.1.1.RELEASE</thymeleaf-extras-springsecurity3.version>
@@ -190,7 +190,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter</artifactId>
-				<version>1.2.2.BUILD-SNAPSHOT</version>
+				<version>2.3.0.RELEASE</version>
 				<exclusions>
 					<exclusion>
 						<groupId>commons-logging</groupId>
@@ -397,7 +397,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter-web</artifactId>
-				<version>1.2.2.BUILD-SNAPSHOT</version>
+				<version>2.3.0.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
