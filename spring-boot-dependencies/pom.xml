@@ -95,7 +95,7 @@
 		<jolokia.version>1.2.3</jolokia.version>
 		<json-path.version>0.9.1</json-path.version>
 		<jstl.version>1.2</jstl.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<liquibase.version>3.3.0</liquibase.version>
 		<log4j.version>1.2.17</log4j.version>
 		<log4j2.version>2.1</log4j2.version>
@@ -111,7 +111,7 @@
 		<snakeyaml.version>1.14</snakeyaml.version>
 		<solr.version>4.7.2</solr.version>
 		<spock.version>0.7-groovy-2.0</spock.version>
-		<spring.version>4.1.5.BUILD-SNAPSHOT</spring.version>
+		<spring.version>4.1.7.RELEASE</spring.version>
 		<spring-amqp.version>1.4.3.RELEASE</spring-amqp.version>
 		<spring-cloud-connectors.version>1.1.1.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.2.RELEASE</spring-batch.version>
