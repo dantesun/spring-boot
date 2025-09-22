@@ -112,9 +112,9 @@
 		<solr.version>4.7.2</solr.version>
 		<spock.version>0.7-groovy-2.0</spock.version>
 		<spring.version>4.1.5.BUILD-SNAPSHOT</spring.version>
-		<spring-amqp.version>1.4.3.RELEASE</spring-amqp.version>
+		<spring-amqp.version>3.2.7</spring-amqp.version>
 		<spring-cloud-connectors.version>1.1.1.RELEASE</spring-cloud-connectors.version>
-		<spring-batch.version>3.0.2.RELEASE</spring-batch.version>
+		<spring-batch.version>5.2.3</spring-batch.version>
 		<spring-data-releasetrain.version>Evans-SR2</spring-data-releasetrain.version>
 		<spring-hateoas.version>0.16.0.RELEASE</spring-hateoas.version>
 		<spring-integration.version>4.1.2.RELEASE</spring-integration.version>
@@ -126,7 +126,7 @@
 		<spring-social.version>1.1.0.RELEASE</spring-social.version>
 		<spring-social-facebook.version>1.1.1.RELEASE</spring-social-facebook.version>
 		<spring-social-linkedin.version>1.0.1.RELEASE</spring-social-linkedin.version>
-		<spring-social-twitter.version>1.1.0.RELEASE</spring-social-twitter.version>
+		<spring-social-twitter.version>1.1.1.RELEASE</spring-social-twitter.version>
 		<spring-ws.version>2.2.0.RELEASE</spring-ws.version>
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
 		<thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
@@ -149,13 +149,13 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot</artifactId>
-				<version>1.2.2.BUILD-SNAPSHOT</version>
+				<version>3.4.10</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot</artifactId>
 				<type>test-jar</type>
-				<version>1.2.2.BUILD-SNAPSHOT</version>
+				<version>3.4.10</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
@@ -170,7 +170,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-configuration-processor</artifactId>
-				<version>1.2.2.BUILD-SNAPSHOT</version>
+				<version>1.4.4.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
